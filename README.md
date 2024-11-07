@@ -8,7 +8,7 @@
 * [AUTORES](#autores)
  
 Este projeto é uma versão atualizada do projeto 'Conversor de Moedas Simples' que permite ao usuário converter valores entre diferentes moedas em tempo real. A aplicação se integra com uma API de câmbio para consultar as taxas de conversão atualizadas, garantindo valores precisos de acordo com as variações do mercado.
- 
+
 ## ``Funcionalidades``
  
 - **``Entrada de Valor``**: Permite que o usuário insira um valor em uma moeda de origem para realizar a conversão.
