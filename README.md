@@ -45,7 +45,7 @@ A interface segue um layout minimalista para garantir usabilidade:
 - **``Chave de API``**: Insira a chave de API no código JavaScript para ativar a funcionalidade de câmbio em tempo real.
  
 ## ``RESULTADO``:
-![](img/conversor2.gif)
+![](img/gif.gif)
  
 ## ``Autores``:
 - [Leonardo Rocha](https://github.com/LeonardoRochaMarista/LeonardoRochaMarista)
